@@ -10,15 +10,15 @@ This project provides a comprehensive analysis of pizza sales data to help stake
 </ul>
 
 <h2>Getting Started</h2>
-<dl>
-<dt>Data Analysis (SQL)</dt>
-<dd>The initial data processing was conducted using SQL. You can find the scripts for data extraction, KPI calculation, and transformation in:
-sql_sales_analysis.sql</dd>
 
-<dt>Interactive Dashboards (Power BI)</dt>
-<dd></dd>The visual reports are contained within the Power BI project file:
-pizza_sales_report.pbix (Requires Power BI Desktop)</dd>
-</dl>
+</h3>1.Data Analysis (SQL):</h3>
+<p>The initial data processing was conducted using SQL. You can find the scripts for data extraction, KPI calculation, and transformation in:
+sql_sales_analysis.sql</p>
+
+<h3>2.Interactive Dashboards (Power BI):</h3>
+<p>The visual reports are contained within the Power BI project file:
+pizza_sales_report.pbix (Requires Power BI Desktop)
+</p>
 
 
 <h2>Dashboard Highlights</h2>
@@ -31,9 +31,9 @@ The Power BI report consists of two primary views:
 <h2>Dashboard Highlights</h2>
 <p>The Power BI report is divided into two strategic dashboards, each designed to answer specific business questions:
 </p>
-<ol>
-<li>Executive Summary: Operations & Trends
-This view serves as the primary "Home" dashboard, focusing on high-level Key Performance Indicators (KPIs) and temporal data.
+
+<h3>Executive Summary: Operations & Trends</h3>
+<p>This view serves as the primary "Home" dashboard, focusing on high-level Key Performance Indicators (KPIs) and temporal data.</p>
 
 <ul>
 <li>KPI Tracking: Real-time visibility into Total Revenue, Average Order Value, and Total Pizzas Sold.</li>
@@ -41,17 +41,14 @@ This view serves as the primary "Home" dashboard, focusing on high-level Key Per
 <li>Market Share: Visual breakdown of sales by pizza category and size to understand the dominant product mix.</li>
 </li>
 
-<li>Inventory Intelligence: Best & Worst Sellers
-This specialized view allows stakeholders to perform "Product Performance Analysis" to optimize the menu and reduce waste.
+<h3>Inventory Intelligence:Best & Worst Sellers </h3>
+<p>This specialized view allows stakeholders to perform "Product Performance Analysis" to optimize the menu and reduce waste.</p>
   
-<ol>
+<ul>
 <li>Revenue Leaders: Identify which pizzas contribute most to the bottom line (Top 5 by Revenue).</li>
 <li>Volume Drivers: See which items have the highest turnover (Top 5 by Quantity).</li>
 <li>Underperformers: Isolate the "Worst Sellers" to make data-backed decisions on menu removals or promotional discounts.</li>
-</ol>
-
-</li>
-</ol>
+</ul>
 
 <img src="">
 <img src="">
