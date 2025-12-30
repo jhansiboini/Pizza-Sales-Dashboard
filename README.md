@@ -51,9 +51,9 @@ The Power BI report consists of two primary views:
 <li>Underperformers: Isolate the "Worst Sellers" to make data-backed decisions on menu removals or promotional discounts.</li>
 </ul>
 <h3>Home Page</h3>
-<img src="">
+<img src="Dashboard Screenshots/Home page.jpg">
 <h3>Best & Worst Sellers Page</h3>
-<img src="">
+<img src="Dashboard Screenshots/Best & Worst Sellers.jpg">
 
 <h2>How to Use the Dashboard</h2>
 <p>Follow these steps to explore the interactive pizza sales insights:</p>
