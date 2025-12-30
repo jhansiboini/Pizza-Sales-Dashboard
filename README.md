@@ -21,7 +21,7 @@ pizza_sales_report.pbix (Requires Power BI Desktop)
 </p>
 
 
-<h2>Dashboard Highlights</h2>
+<h2>Creating Dashboards with Power BI</h2>
 <ul>
 The Power BI report consists of two primary views:
 <li>Home Page Dashboard: High-level KPIs, including daily/monthly trends and category distributions.</li>
@@ -40,6 +40,7 @@ The Power BI report consists of two primary views:
 <li>Time-Series Analysis: Identification of peak order hours and busiest days of the week to assist in staff scheduling.</li>
 <li>Market Share: Visual breakdown of sales by pizza category and size to understand the dominant product mix.</li>
 </li>
+</ul>
 
 <h3>Inventory Intelligence:Best & Worst Sellers </h3>
 <p>This specialized view allows stakeholders to perform "Product Performance Analysis" to optimize the menu and reduce waste.</p>
