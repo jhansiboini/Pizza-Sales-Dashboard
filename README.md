@@ -50,8 +50,9 @@ The Power BI report consists of two primary views:
 <li>Volume Drivers: See which items have the highest turnover (Top 5 by Quantity).</li>
 <li>Underperformers: Isolate the "Worst Sellers" to make data-backed decisions on menu removals or promotional discounts.</li>
 </ul>
-
+<h3>Home Page</h3>
 <img src="">
+<h3>Best & Worst Sellers Page</h3>
 <img src="">
 
 <h2>How to Use the Dashboard</h2>
